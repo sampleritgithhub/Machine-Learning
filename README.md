@@ -1,2 +1,2 @@
 # Machine-Learning
-Implementation of logistic regression
+Implementation of ML Alogrithms
